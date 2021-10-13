@@ -7,7 +7,7 @@
  ## Languages and Technologies Used in this Project
 :arrow_right: React Js </br>
 :arrow_right: CSS3 </br>
-:arrow_right: Bootstrap </br>
+:arrow_right: Semantic UI </br>
 <br/>
 
 
