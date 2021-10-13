@@ -1,0 +1,65 @@
+.card{
+    width: 26%;
+    background-color: white;
+    margin: 10px;
+    border-radius: 50px;
+    box-shadow: 1px -1px 20px #b9a7a5;
+}
+
+.formCard{
+    display: flex;
+    justify-content: center;
+    margin: 25px;
+}
+
+.ui.icon.button{
+    border-radius: 4px 50px 50px 4px !important;
+    box-shadow: 1px 1px 3px #a8a4a4 !important;
+    background-color: #244f67 ;
+    color: white;
+    transition: color 100ms;
+}
+.ui.icon.button:hover{
+    background-color: #193b4d ;
+    color: white;
+}
+
+.ui.input>input{
+    border-radius: 50px 4px 4px 50px !important;
+    width: 253px !important;
+    box-shadow: 1px 1px 3px #a8a4a4 !important;
+}
+
+.text{display: block;
+    text-align: center;
+    margin-top: 5px;}
+
+.dataCountry{
+    display: block;
+    text-align: center;;
+    margin-top: -15px;
+}
+.next{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.weatherIcon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icons{
+    width: 19px;
+    border-radius: 10px;
+}
+
+.weatherDetails{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 20px;
+    font-size: 15px;
+}
