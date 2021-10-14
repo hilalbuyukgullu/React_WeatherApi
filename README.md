@@ -1,8 +1,6 @@
-## 📌 React Weather Api  📌
+## 📌 React Weather Api  
 
-<p>  </p>
-
-<br/><br/>
+<p>Searching for weather conditions by provinces and transferring them to the screen with WeatherApi.  </p><br/>
 
  ## Languages and Technologies Used in this Project
 :arrow_right: React Js </br>
@@ -10,13 +8,12 @@
 :arrow_right: Semantic UI </br>
 <br/>
 
-
  ## Application Images
  <p>
-<a href="https://user-images.githubusercontent.com/44446749/137130976-03aba890-36b1-434a-9c92-2ffdafd46679.png" target="_blank">
-<img src="https://user-images.githubusercontent.com/44446749/137130976-03aba890-36b1-434a-9c92-2ffdafd46679.png" width="400" style="max-width:200%;"></a>
+<a href="https://github.com/hilalbuyukgullu/React_WeatherApi/blob/main/image/img1.png" target="_blank">
+<img src="https://github.com/hilalbuyukgullu/React_WeatherApi/blob/main/image/img1.png" width="400" style="max-width:200%;"></a>
   
-  <a href="https://user-images.githubusercontent.com/44446749/137130888-77474dba-2b8a-4bf9-974b-c1a64d984f01.png" target="_blank">
-<img src="https://user-images.githubusercontent.com/44446749/137130888-77474dba-2b8a-4bf9-974b-c1a64d984f01.png" width="400" style="max-width:200%;"></a>
+<a href="https://github.com/hilalbuyukgullu/React_WeatherApi/blob/main/image/img2.png" target="_blank">
+<img src="https://github.com/hilalbuyukgullu/React_WeatherApi/blob/main/image/img2.png" width="400" style="max-width:200%;"></a>
 </p>
 
